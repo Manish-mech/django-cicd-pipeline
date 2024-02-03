@@ -1,2 +1,5 @@
-# django-cicd-pipeline
-This is a practice project for setting up Jenkins CICD pipeline.
+# react_django_demo_app
+A demo app for React and Django Deployment
+
+docker-compose down
+docker-compose up -d
